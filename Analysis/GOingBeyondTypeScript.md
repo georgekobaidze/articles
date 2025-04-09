@@ -10,7 +10,7 @@ In the middle of March 2025, Microsoft introduced ["Project Corsa"](https://devb
 
 * **A huge step forward** – They expect a **10X** performance improvement, which is genuinely jaw-dropping.
 
-{% embed https://youtu.be/pNlq-EVld70 %}
+[![Video Title](https://img.youtube.com/vi/pNlq-EVld70/0.jpg)](https://www.youtube.com/watch?v=pNlq-EVld70)
 
 ## The Ongoing Debate
 
