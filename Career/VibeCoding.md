@@ -22,6 +22,14 @@
     - [Dipping Toes in Creating Products](#dipping-toes-in-creating-products)
     - [To Sum Everything Up](#to-sum-everything-up)
 
+## Whether before or after reading the article, you can also tune in to the podcast for more insights on the topic:
+
+### ▶️ Watch on YouTube:
+{% embed https://youtu.be/8PTxMywyiMw?si=dj2VwdhVhHG2hfNK %}
+
+### 🎙️ Listen on Spotify:
+{% embed https://open.spotify.com/episode/5dbHEiva5cgUEHwwiofrNa?si=1e0ba0e1d939462c %}
+
 ## Introduction
 
 ### AI Is Awesome
@@ -32,7 +40,9 @@ Large Language Models (LLMs) have become a cornerstone of this progress. Today, 
 
 ### Failing Code and a Cold Bus
 
-At the time, the best we had was StackOverflow — which, to be honest, often felt like one of the most toxic places on the internet. I remember working on a rarely used platform with terrible documentation and almost no community support. Out of desperation, I decided to post a question on StackOverflow. Do you know what happened? Nothing. No replies, no upvotes, no downvotes — just silence. I posted a few more questions (oh, I even got a badge for this — I kid you not.) and finally someone, for some reason, downvoted my question, causing my account to get locked. Yes, just like that. Locked out, not for spamming or trolling, but for asking legitimate questions that no one knew how to answer (what a great way to start your software engineering career right?). If I had AI tools like we have today, that phase of my career would've been so much less painful. I'd have found those answers without stressing out myself and thinking about my career choices on the way home at 10PM sitting in a cold, empty bus. 
+At the time, the best we had was StackOverflow — which, to be honest, often felt like one of the most toxic places on the internet. I remember working on a rarely used platform with terrible documentation and almost no community support. Out of desperation, I decided to post a question on StackOverflow. Do you know what happened? Nothing. No replies, no upvotes, no downvotes — just silence. I posted a few more questions (oh, I even got a badge for this — I kid you not.) and finally someone, for some reason, downvoted my question, causing my account to get locked. Yes, just like that. Locked out, not for spamming or trolling, but for asking legitimate questions that no one knew how to answer (what a great way to start your software engineering career right?). If I had AI tools like we have today, that phase of my career would've been so much less painful. I'd have found those answers without stressing out myself and thinking about my career choices on the way home at 10PM sitting in a cold, empty bus.
+
+![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rtl3xe63843iyqo3ksrv.webp)
 
 I'm sharing all this to make one thing clear: I'm a huge supporter of AI, machine learning, deep learning — the entire field. Even my PhD research focused on data mining and AI. I've had professional debates with people who are skeptical about this technology, and honestly, I don't understand the hostility. Why would I reject a tool that helps me work smarter, learn faster, and be more productive?
 
@@ -197,6 +207,9 @@ There are tens of millions of software engineers on the planet today. And vibe c
 
 If that happens, the energy footprint of software development could skyrocket — bringing with it a significant increase in carbon emissions, and a sustainability crisis we're not prepared to handle.
 
+
+![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9nlvkgxohdols7r7upji.webp)
+
 **This isn't just a technical issue anymore. It's an environmental one, too — and we'll have to deal with it sooner or later.**
 
 ## As we Move Towards the End, Let's Switch to a Positive Note
@@ -232,3 +245,6 @@ If someone else finds energy and creativity in that workflow? If they're passion
 At the end of the day, we're all part of the same developer community. Whether you're old-school or new school, hands-on or voice-prompted — what matters most is that we respect each other's paths and help one another grow.
 
 **And that's the real vibe!**
+
+### Want the behind-the-scenes perspective? Check out the follow-up article:
+{% embed https://dev.to/georgekobaidze/behind-the-mic-ai-and-the-vibe-coding-podcast-retrospective-3hfe %}
