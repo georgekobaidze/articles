@@ -1,5 +1,21 @@
 # Template Your Own Clean, Precise Boilerplate Code: No AI, No Wallet Drain.
 
+## Table of Contents
+
+- [Introduction](#introduction)
+    - [The First Mile of 100](#the-first-mile-of-100)
+    - [I Know You're Not a Fan of Repetitive Work](#i-know-youre-not-a-fan-of-repetitive-work)
+    - [So Why Go Manual When AI Can Do the Work?](#so-why-go-manual-when-ai-can-do-the-work)
+- [Enough Talk, Let's Get our Hands Dirty](#enough-talk-lets-get-our-hands-dirty)
+    - [How Exactly Does Microsoft Implement Their Default Templates?](#how-exactly-does-microsoft-implement-their-default-templates)
+    - [Let's Recap Some Basics First](#lets-recap-some-basics-first)
+    - [Command Line Interface](#command-line-interface)
+- [Let's Pop the Hood](#lets-pop-the-hood)
+    - [Full Project Templates](#full-project-templates)
+    - [Item Templates](#item-templates)
+- [Breaking Down the Machine to Discover Its Parts](#breaking-down-the-machine-to-discover-its-parts)
+- [What to Expect in the Upcoming Part 2?](#what-to-expect-in-the-upcoming-part-2)
+
 ## Introduction
 
 This is the first part of a two-article series, where we'll explore Microsoft's approach to implementing project templates.
